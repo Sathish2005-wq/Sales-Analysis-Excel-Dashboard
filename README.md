@@ -96,10 +96,6 @@ Interactive Dashboard
 ↓  
 Business Insights
 
-## 📸 Dashboard Preview
-
-![Sales Dashboard](dashboard.png)
-
 ## 💡 Key Analysis Areas
 
 The dashboard allows users to interactively analyze:
