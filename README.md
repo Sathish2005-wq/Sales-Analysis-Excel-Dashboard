@@ -98,7 +98,7 @@ Business Insights
 
 ## 📸 Dashboard Preview
 
-![Sales Dashboard](Screenshots/sales_dashboard.png)
+![Sales Dashboard](dashboard.png)
 
 ## 💡 Key Analysis Areas
 
